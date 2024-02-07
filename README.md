@@ -22,4 +22,4 @@ Introduced in Shadowlands, the Great Vault allows players to choose one reward p
 - If desired, select compensation currency as an alternative reward.
 
 ### Preview (Click on the image to see a video) 👀
-[![Watch the video](https://www.zupimages.net/up/24/06/8vsh.png)]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/watch?v=MjqCLP9_PxE)https://www.youtube.com/watch?v=MjqCLP9_PxE)
+[![Watch the video](https://www.zupimages.net/up/24/06/8vsh.png)](https://www.youtube.com/watch?v=MjqCLP9_PxE)
